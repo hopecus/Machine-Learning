@@ -23,9 +23,19 @@ I would like to build GUI application using many powerful python packages.
 
 * IronPython : http://ironpython.net/
 
-* IronPyCompiler : http://pythonhosted.org/ironpycompiler/html-en/index.html
- 
-: IronPyCompiler is library for compiling IronPython scripts requiring modules from the python standard library into stand-alone .Net DLL lib. or executable application using pyc.py
+~~~~{.python}
+
+import clr
+clr.AddReference('PresentationCore')
+clr.AddReference("PresentationFramework")
+clr.AddReference('Microsoft.Dynamic')
+clr.AddReference('Microsoft.Scripting')
+clr.AddReference('System')
+clr.AddReference('IronPython')
+clr.AddReference('IronPython.Modules')
+clr.AddReference('IronPython.Wpf')
+
+~~~~
 
 
 ## Otherse
