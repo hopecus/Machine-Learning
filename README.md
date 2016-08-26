@@ -1,4 +1,4 @@
-# Resource
+## Resource
 
 > Machine Learning
 
@@ -11,9 +11,9 @@
 * Recommanded Papers
 
 
-# Python Package
+## Python Package
 * Python Tools for Visual Studio : https://github.com/Microsoft/PTVS
 
 
-# Otherse
+## Otherse
 * Mastering Markdown : https://guides.github.com/features/mastering-markdown/
