@@ -1,4 +1,4 @@
-## Resource
+> ## Resource
 
 > Machine Learning
 
@@ -17,11 +17,14 @@
  - ResNet
 
 
-## Python for Standalone Application
+> ## Python for Stand-alone Application
 I would like to build GUI application using many powerful python packages.
-* Python Tools for Visual Studio : https://github.com/Microsoft/PTVS
-* IronPython : http://ironpython.net/
+> Python Tools for Visual Studio : https://github.com/Microsoft/PTVS
 
+> IronPython : http://ironpython.net/
+
+> IronPyCompiler : http://pythonhosted.org/ironpycompiler/html-en/index.html
+ : IronPyCompiler is library for compiling IronPython scripts requiring modules from the python standard library into stand-alone .Net DLL lib. or executable application using pyc.py
 
 
 ## Otherse
