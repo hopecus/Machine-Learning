@@ -2,7 +2,8 @@
 
 > Machine Learning
 
-* Machine Learning in Python - sckit-learn : http://scikit-learn.org/stable/
+* Machine Learning in Python(sckit-learn) : http://scikit-learn.org/stable/
+* Evolutionary computation framework : http://deap.readthedocs.io/en/master/
 
 * Support Vector Machine
 
