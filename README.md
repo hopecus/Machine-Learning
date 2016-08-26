@@ -9,6 +9,11 @@
 > Deep Learning
 
 * Recommanded Papers
+ - LeNet5
+ - AlexNet
+ - VGGNet
+ - GoogLeNet
+ - ResNet
 
 
 ## Python for Standalone Application
