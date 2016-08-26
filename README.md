@@ -12,7 +12,7 @@
 
 
 ## Python for Standalone Application
-I would like to build GUI application using python package for many powerful python package.
+I would like to build GUI application using many powerful python packages.
 * Python Tools for Visual Studio : https://github.com/Microsoft/PTVS
 * IronPython : http://ironpython.net/
 
