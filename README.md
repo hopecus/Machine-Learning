@@ -14,7 +14,6 @@
 
 * Recommanded Papers
  - [LeNet5](http://yann.lecun.com/exdb/publis/pdf/lecun-98.pdf)
- -
  - AlexNet
  - VGGNet
  - GoogLeNet
