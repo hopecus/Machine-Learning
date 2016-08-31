@@ -8,14 +8,3 @@
 * Evolutionary computation framework : http://deap.readthedocs.io/en/master/
 
 	
-
-
-## Deep Learning
-
-* Recommanded Papers
- - [LeNet5](http://yann.lecun.com/exdb/publis/pdf/lecun-98.pdf)
- - AlexNet
- - VGGNet
- - GoogLeNet
- - ResNet
-
